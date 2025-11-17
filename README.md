@@ -9,7 +9,7 @@
 
 🌐 **Portfolio**: [salman-khan-dev.vercel.app](https://salman-khan-dev.vercel.app)  
 📧 **Email**: salmankhan150.dev@gmail.com  
-📍 **Location**: Islamabad, Pakistan  
+📍 **Location**: Peshawar, Pakistan  
 📞 **Phone**: +92 308 9222522  
 
 ---
